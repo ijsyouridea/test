@@ -1,0 +1,4 @@
+1. clone the link
+2. git clone https://github.com/ijsyouridea/test.git
+3. create branch and switch to new branch:
+    git checkout -b gr55_modify_button
