@@ -1,0 +1,19 @@
+1. clone the link
+2. git clone https://github.com/ijsyouridea/test.git
+3. create branch and switch to new branch:
+    git checkout -b gr55_modify_button
+4. to add/modify all files to future commit in the new branch use .:
+     git add .
+     git add refrence.txt (only one file)
+5. to commit:
+     git commit -m 'gr55: feature description'
+6. WHEN BRANCH IS NOT CREATED YET.. DO THIS SPECIAL PUSH:
+    git push -u origin gr55_modify_button
+
+WHEN WE HAVE ALREADY EXICTED BRANCH JUST STEP 4 AND 5 .. STEP 6 JUST: git push
+
+7. WHEN FINISHED ALL TASK MUST MAKE PULL REQUEST IN GITHUB.. MEANS I FINISHED
+
+*red what i delete.. green what i add
+
+valeri
